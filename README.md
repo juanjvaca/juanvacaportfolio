@@ -6,7 +6,4 @@ Please take a look around and see my other projects.
 
 >The original idea of the web was that it should be a collaborative
 >space where you can communicate through sharing information.
-
->-Tim Berners-Lee
-    
-    
+-Tim Berners-Lee
